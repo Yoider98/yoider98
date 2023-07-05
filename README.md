@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Yo soy yoider</h1>
 <h3 align="center">Soy un apasionado por el desarrollo web, en especial por el front-end</h3>
 
-- 🌱 Actualmente estoy aprendiendo: **React, Flutter, Ionic**
+- 🌱 Actualmente estoy aprendiendo: **React-Native, Flutter**
 
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://yoider98.github.io/Portafolio/](https://yoider98.github.io/Portafolio/)
 
