@@ -1,6 +1,4 @@
-
-
-<h1 align="center">**Hola 👋, Soy yoider**</h1>
+<h1 align="center">Hola 👋, Soy yoider</h1>
 <h3 align="center">Desarrollador de software, apasionado por el desarrollo web y movil, estudiante de ingenieria de sistemas</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React-Native, Flutter**
