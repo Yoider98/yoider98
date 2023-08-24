@@ -1,6 +1,5 @@
 <img align="left" height="236" src="https://i.ibb.co/DYHV4yX/IMG-20211121-205042.jpg"  />
 
-###
 <h1 align="center">**Hola 👋, Soy yoider</h1>**
 <h3 align="center">Desarrollador de software, apasionado por el desarrollo web y movil, estudiante de ingenieria de sistemas</h3>
 
