@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Yo soy yoider</h1>
-<h3 align="center">Soy un apasionado por el desarrollo web, en especial por el front-end</h3>
+<h3 align="center">Soy desarrollador de software</h3>
 
 - 🌱 Actualmente estoy aprendiendo: **React-Native, Flutter**
 
