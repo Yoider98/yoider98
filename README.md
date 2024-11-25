@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy yoider</h1>
-<h3 align="center">Desarrollador de software, apasionado por el desarrollo web y movil, estudiante de ingenieria de sistemas</h3>
+<h3 align="center">Ingeniero de Sistemas y desarrollador de software con experiencia en diversas tecnologías, incluyendo Angular, Node.js y Flutter (Dark). Además, cuento con conocimientos básicos, tanto teóricos como prácticos, en AWS.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React-Native, Flutter**
+- 🌱 Actualmente estoy aprendiendo **AWS**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://yoider98.github.io/Portafolio/](https://yoider98.github.io/Portafolio/)
 
