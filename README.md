@@ -14,5 +14,5 @@
 
 ## 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/yoider-j-yancy-acu%C3%B1a/)
-- yoider98@gmail.com
+- yoideryancy@gmail.com
 
